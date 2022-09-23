@@ -1,7 +1,7 @@
 
 public class ProbAndStat // Comment Added by Matthew Roesch to show repositiory change
 {
-    
+    //testing pull/merge mechanincs
     
     public static double mean(int[] values)
     {
